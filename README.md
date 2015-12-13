@@ -1,5 +1,8 @@
 # CS135_codonAssignment
 
+This program was written for an assignment in a Software Analysis and Design class and was written without knowledge of how to use classes in C++.
+
+=======================
  Reads a txt file called "dna.txt" containing invalid and valid DNA sequences and creates three new text files called:
 
 ##### headerLinesFreq
