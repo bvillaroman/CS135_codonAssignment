@@ -215,7 +215,7 @@ bool isValidDNAstring(string DNA){
     }
     
     // if the while loop was succesful and didnt find an invalid character,return true, else return false
-    if(counter == length-1){
+    if(counter == length){
         
         return true;   
     }
